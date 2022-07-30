@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.move-container {
+  width: 600px;
+  height: 600px;
+  border: solid black 1px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.move-div {
+  width: 50px;
+  height: 50px;
+  border: 2px solid red;
+  position: relative;
+  
+}
+.move-div2 {
+  width: 50px;
+  height: 50px;
+  /* position: relative; */
+  /* display: inline-block; */
+}
+
+.controller {
+  padding: 10px;
+}
+
+.controller button {
+  margin: 5px;
+}
